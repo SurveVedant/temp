@@ -1,0 +1,7 @@
+[
+  "vtopcc.vit.ac.in",
+  "https://lms.vit.ac.in",
+  "https://www.vpropel.in",
+  "https://www.microsoft.com/en-us/microsoft-teams/log-in"
+  
+]
